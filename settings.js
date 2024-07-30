@@ -4,38 +4,38 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
+global.ownernomer = "2349045613439"
+global.ownername = "anos voidigoad"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '2349130371354,2349045613439,2348117424831'  //creator number
+global.ownername = 'anos voidigoad' //owner name
+global.botname = 'anos voidigoad' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = '★'
+global.author = 'anos voidigoad'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '☠️'
 global.wm = "David Cyril Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -53,10 +53,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    prem: 'This feature can be used by 𝔞𝔫𝔬𝔰 𝔳𝔬𝔩𝔡𝔦𝔤𝔬𝔞𝔡 only',
+    admin: 'This feature can be used by 𝔞𝔫𝔬𝔰 𝔳𝔬𝔩𝔡𝔦𝔤𝔬𝔞𝔡 only',
+    botAdmin: 'This feature can only be used when 𝔞𝔫𝔬𝔰 𝔳𝔬𝔩𝔡𝔦𝔤𝔬𝔞𝔡 is a group admin ',
+    owner: 'This feature can be used by 𝔞𝔫𝔬𝔰 𝔳𝔬𝔩𝔡𝔦𝔤𝔬𝔞𝔡 only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
